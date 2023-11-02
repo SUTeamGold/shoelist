@@ -66,7 +66,7 @@ A platform for shoe enthusiasts to create and share lists of their favorite shoe
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+[Add picture of your hand sketched wireframes in this section] <img src="https://github.com/SUTeamGold/shoelist/blob/main/Shoelist.pdf" width=600>
 
 <br>
 
