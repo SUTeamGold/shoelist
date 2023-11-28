@@ -27,8 +27,8 @@ A platform for shoe enthusiasts to create and share lists of their favorite shoe
 
 **Required Features**
 
-- [ ] 1. User can view different type of shoes
-- [ ] 2. User can scroll
+- [x] 1. User can view different type of shoes
+- [x] 2. User can scroll
 - [ ] 3. User can view detailed information about shoe
 - [ ] 4. User can see all contents
 
@@ -84,7 +84,7 @@ Picture of hand sketched wireframe -  <img src="https://github.com/SUTeamGold/sh
 
 [Add screenshot of your Project Board with three milestones visible in
 this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://submissions.us-east-1.linodeobjects.com/and102/rru7GPj7.gif" width=600>
 
 ## Issue cards
 
