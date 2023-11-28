@@ -82,8 +82,10 @@ Picture of hand sketched wireframe -  <img src="https://github.com/SUTeamGold/sh
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with three milestones visible in
-this section]
+These are the screenshots for milestones and board
+<img width="1512" alt="Screenshot 2023-11-28 at 5 38 29 PM" src="https://github.com/SUTeamGold/shoelist/assets/124842456/46b91e3c-f41c-4a74-88b8-253ee9d01892">
+<img width="1512" alt="Screenshot 2023-11-28 at 5 38 52 PM" src="https://github.com/SUTeamGold/shoelist/assets/124842456/c01cd4e2-d2c4-4299-bddb-8739ee25a736">
+
 <img src="https://submissions.us-east-1.linodeobjects.com/and102/rru7GPj7.gif" width=600>
 
 ## Issue cards
