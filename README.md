@@ -28,9 +28,9 @@ A platform for shoe enthusiasts to create and share lists of their favorite shoe
 **Required Features**
 
 - [ ] 1. User can view different type of shoes
-- [ ] 2. User can make a wishlist of shoes they want
-- [ ] 3. User can comment reviews 
-- [ ] 4. User can see all contents after they close app 
+- [ ] 2. User can scroll
+- [ ] 3. User can view detailed information about shoe
+- [ ] 4. User can see all contents
 
 **Optional Features**
 
