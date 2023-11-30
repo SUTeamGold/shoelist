@@ -29,8 +29,8 @@ A platform for shoe enthusiasts to create and share lists of their favorite shoe
 
 - [x] 1. User can view different type of shoes
 - [x] 2. User can scroll
-- [ ] 3. User can view detailed information about shoe
-- [ ] 4. User can see all contents
+- [x] 3. User can view detailed information about shoe
+- [x] 4. User can see all contents
 
 **Optional Features**
 
@@ -104,7 +104,7 @@ These are the screenshots for milestones and board
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="https://submissions.us-east-1.linodeobjects.com/and102/IPXNNWM2.gif" width=600>
 
 ## Completed user stories
 
